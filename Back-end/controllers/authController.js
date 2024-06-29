@@ -25,7 +25,7 @@ try {
 
     const boyProfilePic=`https://www.punjabkingsipl.in/static-assets/images/players/1201.png?v=5.97?username=${username}`
 
-    const girlProfilePic=`https://avatar.iran.liara.run/public/girl?username=${username}`
+    const girlProfilePic=`https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XPZWB6wlPE8NHiWECLw7EX0KSr4Tr36Bug&s?username=${username}`
 
     const newUser=new User({
         fullName,
