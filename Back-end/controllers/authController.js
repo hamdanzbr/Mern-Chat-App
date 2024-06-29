@@ -23,7 +23,7 @@ try {
 
     // https://avatar-placeholder.iran.liara.run/
 
-    const boyProfilePic=`https://avatar.iran.liara.run/public/boy?username=${username}`
+    const boyProfilePic=`https://www.punjabkingsipl.in/static-assets/images/players/1201.png?v=5.97?username=${username}`
 
     const girlProfilePic=`https://avatar.iran.liara.run/public/girl?username=${username}`
 
